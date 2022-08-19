@@ -1,0 +1,15 @@
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/bin/Debug/net6.0/sgnewworkflow
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/bin/Debug/net6.0/sgnewworkflow.deps.json
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/bin/Debug/net6.0/sgnewworkflow.runtimeconfig.json
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/bin/Debug/net6.0/sgnewworkflow.dll
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/bin/Debug/net6.0/sgnewworkflow.pdb
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.csproj.AssemblyReference.cache
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.GeneratedMSBuildEditorConfig.editorconfig
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.AssemblyInfoInputs.cache
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.AssemblyInfo.cs
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.csproj.CoreCompileInputs.cache
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.dll
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/refint/sgnewworkflow.dll
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.pdb
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/sgnewworkflow.genruntimeconfig.cache
+/home/stephen/Documents/CodingProjects/c#/sgnewworkflow/obj/Debug/net6.0/ref/sgnewworkflow.dll
